@@ -1,0 +1,1534 @@
+2024-12-01 00:27:19,871 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 00:27:19,873 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 00:28:28,031 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 00:28:28,032 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 00:28:28,057 - controller.database_controller - INFO - Tablas creadas desde CREATE_TABLES.sql SCRIPT
+2024-12-01 00:28:51,724 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 00:28:51,726 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 00:28:51,727 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 13:20:30,905 - kivy - WARNING - Config: Older configuration version detected (0 instead of 27)
+2024-12-01 13:20:30,905 - kivy - WARNING - Config: Upgrading configuration in progress.
+2024-12-01 13:20:30,905 - kivy - DEBUG - Config: Upgrading from 0 to 1
+2024-12-01 13:20:30,916 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 13:20:30,917 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_0.txt
+2024-12-01 13:20:30,918 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 13:20:30,918 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 13:20:30,918 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 13:20:30,918 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 13:20:30,919 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 13:20:30,919 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 13:20:30,920 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 13:20:30,920 - kivy - INFO - Logger: Purge finished!
+2024-12-01 13:20:30,930 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 13:20:30,930 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 13:20:30,976 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 13:20:31,993 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 13:20:32,384 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 13:20:33,064 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 13:20:33,822 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 13:20:33,833 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 13:20:33,834 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 13:20:33,835 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 13:20:33,836 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 13:20:33,836 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 13:20:33,836 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 13:20:33,836 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 13:20:33,837 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 13:20:33,837 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 13:20:33,912 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 13:20:33,926 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 13:20:34,204 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 13:20:34,208 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 13:20:34,213 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 13:20:34,216 - kivy - INFO - Base: Start application main loop
+2024-12-01 13:44:21,420 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 13:44:21,423 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 13:44:21,423 - kivy - WARNING - stderr:   File "c:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 13:44:21,424 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 13:44:21,425 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 13:44:21,427 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 13:44:21,427 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 13:44:21,428 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 13:44:21,428 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 13:44:21,429 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 13:44:21,430 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 379, in idle
+2024-12-01 13:44:21,430 - kivy - WARNING - stderr:     Clock.tick()
+2024-12-01 13:44:21,430 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 733, in tick
+2024-12-01 13:44:21,431 - kivy - WARNING - stderr:     self.post_idle(ts, self.idle())
+2024-12-01 13:44:21,432 - kivy - WARNING - stderr:                        ^^^^^^^^^^^
+2024-12-01 13:44:21,432 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 689, in idle
+2024-12-01 13:44:21,433 - kivy - WARNING - stderr:     usleep(1000000 * sleeptime)
+2024-12-01 13:44:21,433 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 965, in usleep
+2024-12-01 13:44:21,434 - kivy - WARNING - stderr:     _usleep(microseconds, self._sleep_obj)
+2024-12-01 13:44:21,435 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 504, in _usleep
+2024-12-01 13:44:21,436 - kivy - WARNING - stderr:     _kernel32.WaitForSingleObject(obj, 0xffffffff)
+2024-12-01 13:44:21,437 - kivy - WARNING - stderr: KeyboardInterrupt
+2024-12-01 13:44:27,084 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 13:44:27,085 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_1.txt
+2024-12-01 13:44:27,086 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 13:44:27,086 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 13:44:27,086 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 13:44:27,086 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 13:44:27,087 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 13:44:27,087 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 13:44:27,088 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 13:44:27,088 - kivy - INFO - Logger: Purge finished!
+2024-12-01 13:44:27,090 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 13:44:27,090 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 13:44:27,095 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 13:44:27,227 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 13:44:27,247 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 13:44:27,347 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 13:44:27,640 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 13:44:27,651 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 13:44:27,651 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 13:44:27,652 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 13:44:27,652 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 13:44:27,652 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 13:44:27,653 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 13:44:27,653 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 13:44:27,654 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 13:44:27,654 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 13:44:27,693 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 13:44:27,695 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 13:44:27,724 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 13:44:27,726 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 13:44:27,727 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 13:44:27,800 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 13:44:27,969 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 13:44:27,969 - kivy - WARNING - stderr:   File "c:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 13:44:27,970 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 13:44:27,970 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 955, in run
+2024-12-01 13:44:27,972 - kivy - WARNING - stderr:     self._run_prepare()
+2024-12-01 13:44:27,972 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 925, in _run_prepare
+2024-12-01 13:44:27,973 - kivy - WARNING - stderr:     root = self.build()
+2024-12-01 13:44:27,974 - kivy - WARNING - stderr:            ^^^^^^^^^^^^
+2024-12-01 13:44:27,974 - kivy - WARNING - stderr:   File "c:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 20, in build
+2024-12-01 13:44:27,975 - kivy - WARNING - stderr:     return UI()
+2024-12-01 13:44:27,975 - kivy - WARNING - stderr:            ^^^^
+2024-12-01 13:44:27,976 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\screenmanager.py", line 973, in __init__
+2024-12-01 13:44:27,977 - kivy - WARNING - stderr:     super(ScreenManager, self).__init__(**kwargs)
+2024-12-01 13:44:27,977 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\floatlayout.py", line 65, in __init__
+2024-12-01 13:44:27,978 - kivy - WARNING - stderr:     super(FloatLayout, self).__init__(**kwargs)
+2024-12-01 13:44:27,978 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\layout.py", line 76, in __init__
+2024-12-01 13:44:27,979 - kivy - WARNING - stderr:     super(Layout, self).__init__(**kwargs)
+2024-12-01 13:44:27,979 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 366, in __init__
+2024-12-01 13:44:27,980 - kivy - WARNING - stderr:     self.apply_class_lang_rules(
+2024-12-01 13:44:27,981 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 470, in apply_class_lang_rules
+2024-12-01 13:44:27,982 - kivy - WARNING - stderr:     Builder.apply(
+2024-12-01 13:44:27,982 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 545, in apply
+2024-12-01 13:44:27,983 - kivy - WARNING - stderr:     self._apply_rule(
+2024-12-01 13:44:27,983 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 667, in _apply_rule
+2024-12-01 13:44:27,984 - kivy - WARNING - stderr:     self._apply_rule(
+2024-12-01 13:44:27,984 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 667, in _apply_rule
+2024-12-01 13:44:27,984 - kivy - WARNING - stderr:     self._apply_rule(
+2024-12-01 13:44:27,985 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 625, in _apply_rule
+2024-12-01 13:44:27,986 - kivy - WARNING - stderr:     cls = Factory_get(cname)
+2024-12-01 13:44:27,986 - kivy - WARNING - stderr:           ^^^^^^^^^^^^^^^^^^
+2024-12-01 13:44:27,986 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\factory.py", line 147, in __getattr__
+2024-12-01 13:44:27,987 - kivy - WARNING - stderr:     raise FactoryException('Unknown class <%s>' % name)
+2024-12-01 13:44:27,987 - kivy - WARNING - stderr: kivy.factory.FactoryException: Unknown class <MDToolbar>
+2024-12-01 14:57:13,231 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 14:57:13,233 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_2.txt
+2024-12-01 14:57:13,235 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 14:57:13,236 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 14:57:13,236 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 14:57:13,236 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 14:57:13,237 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 14:57:13,237 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 14:57:13,267 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 14:57:13,293 - kivy - INFO - Logger: Purge finished!
+2024-12-01 14:57:13,313 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 14:57:13,314 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 14:57:13,390 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 14:57:15,235 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 14:57:15,972 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 14:57:16,933 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 14:57:17,633 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 14:57:17,644 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 14:57:17,645 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 14:57:17,646 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 14:57:17,647 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 14:57:17,648 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 14:57:17,649 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 14:57:17,650 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 14:57:17,651 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 14:57:17,652 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 14:57:17,738 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 14:57:17,744 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 14:57:18,069 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 14:57:18,077 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 14:57:18,083 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 14:57:18,173 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 14:57:18,348 - kivy - INFO - Base: Start application main loop
+2024-12-01 14:57:26,494 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 14:58:34,657 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 14:58:34,659 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_3.txt
+2024-12-01 14:58:34,660 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 14:58:34,660 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 14:58:34,660 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 14:58:34,660 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 14:58:34,660 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 14:58:34,660 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 14:58:34,661 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 14:58:34,662 - kivy - INFO - Logger: Purge finished!
+2024-12-01 14:58:34,666 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 14:58:34,667 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 14:58:34,696 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 14:58:35,688 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 14:58:36,105 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 14:58:36,546 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 14:58:37,405 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 14:58:37,421 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 14:58:37,422 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 14:58:37,423 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 14:58:37,424 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 14:58:37,424 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 14:58:37,425 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 14:58:37,426 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 14:58:37,427 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 14:58:37,428 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 14:58:37,524 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 14:58:37,527 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 14:58:37,702 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 14:58:37,708 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 14:58:37,713 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 14:58:37,727 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 14:58:37,728 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 14:58:37,729 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 14:58:37,730 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 955, in run
+2024-12-01 14:58:37,748 - kivy - WARNING - stderr:     self._run_prepare()
+2024-12-01 14:58:37,748 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 925, in _run_prepare
+2024-12-01 14:58:37,750 - kivy - WARNING - stderr:     root = self.build()
+2024-12-01 14:58:37,751 - kivy - WARNING - stderr:            ^^^^^^^^^^^^
+2024-12-01 14:58:37,751 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 19, in build
+2024-12-01 14:58:37,752 - kivy - WARNING - stderr:     Builder.load_file("views/menu.kv")
+2024-12-01 14:58:37,752 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 310, in load_file
+2024-12-01 14:58:37,783 - kivy - WARNING - stderr:     return self.load_string(data, **kwargs)
+2024-12-01 14:58:37,784 - kivy - WARNING - stderr:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 14:58:37,785 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 377, in load_string
+2024-12-01 14:58:37,786 - kivy - WARNING - stderr:     parser = Parser(content=string, filename=fn)
+2024-12-01 14:58:37,786 - kivy - WARNING - stderr:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 14:58:37,786 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 483, in __init__
+2024-12-01 14:58:37,800 - kivy - WARNING - stderr:     self.parse(content)
+2024-12-01 14:58:37,801 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 597, in parse
+2024-12-01 14:58:37,802 - kivy - WARNING - stderr:     rule.precompile()
+2024-12-01 14:58:37,803 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 14:58:37,803 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 14:58:37,804 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 14:58:37,804 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 14:58:37,804 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 14:58:37,805 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 14:58:37,806 - kivy - WARNING - stderr:   [Previous line repeated 1 more time]
+2024-12-01 14:58:37,806 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 341, in precompile
+2024-12-01 14:58:37,806 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 14:58:37,807 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 194, in precompile
+2024-12-01 14:58:37,808 - kivy - WARNING - stderr:     self.co_value = compile(value, self.ctx.filename or '<string>', mode)
+2024-12-01 14:58:37,809 - kivy - WARNING - stderr:                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 14:58:37,809 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\views\menu.kv", line 11
+2024-12-01 14:58:37,810 - kivy - WARNING - stderr:     [["menu", lambda x: app.root.current = "menu_principal"]]
+2024-12-01 14:58:37,810 - kivy - WARNING - stderr:                                          ^
+2024-12-01 14:58:37,811 - kivy - WARNING - stderr: SyntaxError: invalid syntax
+2024-12-01 14:59:06,579 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 14:59:06,580 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_4.txt
+2024-12-01 14:59:06,581 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 14:59:06,582 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 14:59:06,582 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 14:59:06,582 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 14:59:06,583 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 14:59:06,583 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 14:59:06,585 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 14:59:06,586 - kivy - INFO - Logger: Purge finished!
+2024-12-01 14:59:06,587 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 14:59:06,588 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 14:59:06,593 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 14:59:06,718 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 14:59:06,737 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 14:59:06,847 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 14:59:07,157 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 14:59:07,166 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 14:59:07,167 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 14:59:07,168 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 14:59:07,168 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 14:59:07,169 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 14:59:07,170 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 14:59:07,170 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 14:59:07,171 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 14:59:07,173 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 14:59:07,202 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 14:59:07,205 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 14:59:07,230 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 14:59:07,231 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 14:59:07,233 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 14:59:07,246 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 14:59:07,246 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 14:59:07,247 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 14:59:07,247 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 955, in run
+2024-12-01 14:59:07,249 - kivy - WARNING - stderr:     self._run_prepare()
+2024-12-01 14:59:07,250 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 925, in _run_prepare
+2024-12-01 14:59:07,251 - kivy - WARNING - stderr:     root = self.build()
+2024-12-01 14:59:07,251 - kivy - WARNING - stderr:            ^^^^^^^^^^^^
+2024-12-01 14:59:07,252 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 19, in build
+2024-12-01 14:59:07,253 - kivy - WARNING - stderr:     Builder.load_file("views/menu.kv")
+2024-12-01 14:59:07,253 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 310, in load_file
+2024-12-01 14:59:07,254 - kivy - WARNING - stderr:     return self.load_string(data, **kwargs)
+2024-12-01 14:59:07,255 - kivy - WARNING - stderr:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 14:59:07,255 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 377, in load_string
+2024-12-01 14:59:07,257 - kivy - WARNING - stderr:     parser = Parser(content=string, filename=fn)
+2024-12-01 14:59:07,257 - kivy - WARNING - stderr:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 14:59:07,258 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 483, in __init__
+2024-12-01 14:59:07,259 - kivy - WARNING - stderr:     self.parse(content)
+2024-12-01 14:59:07,260 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 597, in parse
+2024-12-01 14:59:07,261 - kivy - WARNING - stderr:     rule.precompile()
+2024-12-01 14:59:07,261 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 14:59:07,262 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 14:59:07,263 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 14:59:07,263 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 14:59:07,264 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 14:59:07,265 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 14:59:07,265 - kivy - WARNING - stderr:   [Previous line repeated 1 more time]
+2024-12-01 14:59:07,266 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 341, in precompile
+2024-12-01 14:59:07,266 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 14:59:07,267 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 194, in precompile
+2024-12-01 14:59:07,268 - kivy - WARNING - stderr:     self.co_value = compile(value, self.ctx.filename or '<string>', mode)
+2024-12-01 14:59:07,268 - kivy - WARNING - stderr:                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 14:59:07,269 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\views\menu.kv", line 11
+2024-12-01 14:59:07,269 - kivy - WARNING - stderr:     [["menu", lambda x: app.root.current = "menu"]]
+2024-12-01 14:59:07,269 - kivy - WARNING - stderr:                                          ^
+2024-12-01 14:59:07,270 - kivy - WARNING - stderr: SyntaxError: invalid syntax
+2024-12-01 14:59:18,065 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 14:59:18,066 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_5.txt
+2024-12-01 14:59:18,066 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 14:59:18,067 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 14:59:18,068 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 14:59:18,069 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 14:59:18,069 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 14:59:18,069 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 14:59:18,070 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 14:59:18,071 - kivy - INFO - Logger: Purge finished!
+2024-12-01 14:59:18,073 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 14:59:18,073 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 14:59:18,078 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 14:59:18,204 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 14:59:18,221 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 14:59:18,319 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 14:59:18,611 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 14:59:18,622 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 14:59:18,623 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 14:59:18,624 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 14:59:18,624 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 14:59:18,625 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 14:59:18,625 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 14:59:18,625 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 14:59:18,626 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 14:59:18,626 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 14:59:18,659 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 14:59:18,662 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 14:59:18,687 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 14:59:18,689 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 14:59:18,690 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 14:59:18,732 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 14:59:18,852 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 14:59:18,853 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 14:59:18,854 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 14:59:18,854 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 955, in run
+2024-12-01 14:59:18,855 - kivy - WARNING - stderr:     self._run_prepare()
+2024-12-01 14:59:18,856 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 925, in _run_prepare
+2024-12-01 14:59:18,857 - kivy - WARNING - stderr:     root = self.build()
+2024-12-01 14:59:18,858 - kivy - WARNING - stderr:            ^^^^^^^^^^^^
+2024-12-01 14:59:18,858 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 20, in build
+2024-12-01 14:59:18,859 - kivy - WARNING - stderr:     return UI()
+2024-12-01 14:59:18,860 - kivy - WARNING - stderr:            ^^^^
+2024-12-01 14:59:18,860 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\screenmanager.py", line 973, in __init__
+2024-12-01 14:59:18,880 - kivy - WARNING - stderr:     super(ScreenManager, self).__init__(**kwargs)
+2024-12-01 14:59:18,880 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\floatlayout.py", line 65, in __init__
+2024-12-01 14:59:18,882 - kivy - WARNING - stderr:     super(FloatLayout, self).__init__(**kwargs)
+2024-12-01 14:59:18,883 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\layout.py", line 76, in __init__
+2024-12-01 14:59:18,899 - kivy - WARNING - stderr:     super(Layout, self).__init__(**kwargs)
+2024-12-01 14:59:18,900 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 366, in __init__
+2024-12-01 14:59:18,915 - kivy - WARNING - stderr:     self.apply_class_lang_rules(
+2024-12-01 14:59:18,916 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 470, in apply_class_lang_rules
+2024-12-01 14:59:18,917 - kivy - WARNING - stderr:     Builder.apply(
+2024-12-01 14:59:18,917 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 545, in apply
+2024-12-01 14:59:18,919 - kivy - WARNING - stderr:     self._apply_rule(
+2024-12-01 14:59:18,919 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 667, in _apply_rule
+2024-12-01 14:59:18,920 - kivy - WARNING - stderr:     self._apply_rule(
+2024-12-01 14:59:18,920 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 667, in _apply_rule
+2024-12-01 14:59:18,921 - kivy - WARNING - stderr:     self._apply_rule(
+2024-12-01 14:59:18,922 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 667, in _apply_rule
+2024-12-01 14:59:18,923 - kivy - WARNING - stderr:     self._apply_rule(
+2024-12-01 14:59:18,923 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 625, in _apply_rule
+2024-12-01 14:59:18,924 - kivy - WARNING - stderr:     cls = Factory_get(cname)
+2024-12-01 14:59:18,925 - kivy - WARNING - stderr:           ^^^^^^^^^^^^^^^^^^
+2024-12-01 14:59:18,925 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\factory.py", line 147, in __getattr__
+2024-12-01 14:59:18,940 - kivy - WARNING - stderr:     raise FactoryException('Unknown class <%s>' % name)
+2024-12-01 14:59:18,940 - kivy - WARNING - stderr: kivy.factory.FactoryException: Unknown class <MDToolbar>
+2024-12-01 15:00:39,346 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 15:00:39,347 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_6.txt
+2024-12-01 15:00:39,348 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 15:00:39,349 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 15:00:39,349 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 15:00:39,349 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 15:00:39,350 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 15:00:39,350 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 15:00:39,351 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 15:00:39,352 - kivy - INFO - Logger: Purge finished!
+2024-12-01 15:00:39,355 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 15:00:39,356 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 15:00:39,361 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 15:00:39,516 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 15:00:39,539 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 15:00:39,650 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 15:00:40,042 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 15:00:40,050 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 15:00:40,052 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 15:00:40,052 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 15:00:40,053 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 15:00:40,053 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 15:00:40,053 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 15:00:40,054 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 15:00:40,054 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 15:00:40,055 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 15:00:40,098 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 15:00:40,102 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 15:00:40,135 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 15:00:40,137 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 15:00:40,139 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 15:00:40,165 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 15:00:40,240 - kivy - INFO - Base: Start application main loop
+2024-12-01 15:00:40,265 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 15:01:07,256 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 15:01:07,258 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 15:01:07,258 - kivy - WARNING - stderr:   File "c:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 15:01:07,259 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 15:01:07,259 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 15:01:07,260 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 15:01:07,261 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 15:01:07,288 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 15:01:07,289 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 15:01:07,291 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 15:01:07,291 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 379, in idle
+2024-12-01 15:01:07,293 - kivy - WARNING - stderr:     Clock.tick()
+2024-12-01 15:01:07,293 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 733, in tick
+2024-12-01 15:01:07,325 - kivy - WARNING - stderr:     self.post_idle(ts, self.idle())
+2024-12-01 15:01:07,327 - kivy - WARNING - stderr:                        ^^^^^^^^^^^
+2024-12-01 15:01:07,327 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 689, in idle
+2024-12-01 15:01:07,329 - kivy - WARNING - stderr:     usleep(1000000 * sleeptime)
+2024-12-01 15:01:07,329 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 965, in usleep
+2024-12-01 15:01:07,330 - kivy - WARNING - stderr:     _usleep(microseconds, self._sleep_obj)
+2024-12-01 15:01:07,331 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 504, in _usleep
+2024-12-01 15:01:07,333 - kivy - WARNING - stderr:     _kernel32.WaitForSingleObject(obj, 0xffffffff)
+2024-12-01 15:01:07,334 - kivy - WARNING - stderr: KeyboardInterrupt
+2024-12-01 15:01:33,008 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 15:01:33,008 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_7.txt
+2024-12-01 15:01:33,009 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 15:01:33,010 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 15:01:33,010 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 15:01:33,010 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 15:01:33,010 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 15:01:33,010 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 15:01:33,011 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 15:01:33,012 - kivy - INFO - Logger: Purge finished!
+2024-12-01 15:01:33,014 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 15:01:33,015 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 15:01:33,022 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 15:01:33,171 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 15:01:33,200 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 15:01:33,310 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 15:01:33,649 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 15:01:33,660 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 15:01:33,661 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 15:01:33,662 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 15:01:33,663 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 15:01:33,664 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 15:01:33,664 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 15:01:33,665 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 15:01:33,665 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 15:01:33,666 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 15:01:33,712 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 15:01:33,716 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 15:01:33,745 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 15:01:33,747 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 15:01:33,750 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 15:01:33,779 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 15:01:33,826 - kivy - INFO - Base: Start application main loop
+2024-12-01 15:01:33,830 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 15:01:41,387 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 15:01:44,706 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 15:01:44,707 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_8.txt
+2024-12-01 15:01:44,708 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 15:01:44,708 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 15:01:44,709 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 15:01:44,709 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 15:01:44,710 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 15:01:44,710 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 15:01:44,711 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 15:01:44,713 - kivy - INFO - Logger: Purge finished!
+2024-12-01 15:01:44,715 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 15:01:44,716 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 15:01:44,725 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 15:01:44,896 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 15:01:44,923 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 15:01:45,044 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 15:01:45,408 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 15:01:45,417 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 15:01:45,418 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 15:01:45,419 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 15:01:45,419 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 15:01:45,420 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 15:01:45,421 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 15:01:45,421 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 15:01:45,422 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 15:01:45,422 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 15:01:45,471 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 15:01:45,474 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 15:01:45,506 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 15:01:45,507 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 15:01:45,508 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 15:01:45,516 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 15:01:45,558 - kivy - INFO - Base: Start application main loop
+2024-12-01 15:01:45,561 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 15:01:59,052 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 15:52:08,487 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 15:52:08,489 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_9.txt
+2024-12-01 15:52:08,490 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 15:52:08,490 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 15:52:08,491 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 15:52:08,491 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 15:52:08,491 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 15:52:08,492 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 15:52:08,492 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 15:52:08,494 - kivy - INFO - Logger: Purge finished!
+2024-12-01 15:52:08,507 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 15:52:08,508 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 15:52:08,567 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 15:52:09,825 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 15:52:10,334 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 15:52:10,974 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 15:52:11,523 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 15:52:11,532 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 15:52:11,533 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 15:52:11,534 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 15:52:11,535 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 15:52:11,535 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 15:52:11,536 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 15:52:11,536 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 15:52:11,536 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 15:52:11,537 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 15:52:11,563 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 15:52:11,566 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 15:52:11,831 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 15:52:11,832 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 15:52:11,833 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 15:52:11,843 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 15:52:11,843 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 15:52:11,844 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 15:52:11,845 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 955, in run
+2024-12-01 15:52:11,862 - kivy - WARNING - stderr:     self._run_prepare()
+2024-12-01 15:52:11,862 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 925, in _run_prepare
+2024-12-01 15:52:11,864 - kivy - WARNING - stderr:     root = self.build()
+2024-12-01 15:52:11,865 - kivy - WARNING - stderr:            ^^^^^^^^^^^^
+2024-12-01 15:52:11,865 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 19, in build
+2024-12-01 15:52:11,866 - kivy - WARNING - stderr:     Builder.load_file("views/menu.kv")
+2024-12-01 15:52:11,866 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 310, in load_file
+2024-12-01 15:52:11,896 - kivy - WARNING - stderr:     return self.load_string(data, **kwargs)
+2024-12-01 15:52:11,897 - kivy - WARNING - stderr:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 15:52:11,897 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 377, in load_string
+2024-12-01 15:52:11,898 - kivy - WARNING - stderr:     parser = Parser(content=string, filename=fn)
+2024-12-01 15:52:11,899 - kivy - WARNING - stderr:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 15:52:11,899 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 483, in __init__
+2024-12-01 15:52:11,912 - kivy - WARNING - stderr:     self.parse(content)
+2024-12-01 15:52:11,913 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 593, in parse
+2024-12-01 15:52:11,914 - kivy - WARNING - stderr:     objects, remaining_lines = self.parse_level(0, lines)
+2024-12-01 15:52:11,915 - kivy - WARNING - stderr:                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 15:52:11,915 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 696, in parse_level
+2024-12-01 15:52:11,916 - kivy - WARNING - stderr:     _objects, _lines = self.parse_level(
+2024-12-01 15:52:11,916 - kivy - WARNING - stderr:                        ^^^^^^^^^^^^^^^^^
+2024-12-01 15:52:11,916 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 696, in parse_level
+2024-12-01 15:52:11,917 - kivy - WARNING - stderr:     _objects, _lines = self.parse_level(
+2024-12-01 15:52:11,917 - kivy - WARNING - stderr:                        ^^^^^^^^^^^^^^^^^
+2024-12-01 15:52:11,917 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 696, in parse_level
+2024-12-01 15:52:11,918 - kivy - WARNING - stderr:     _objects, _lines = self.parse_level(
+2024-12-01 15:52:11,918 - kivy - WARNING - stderr:                        ^^^^^^^^^^^^^^^^^
+2024-12-01 15:52:11,918 - kivy - WARNING - stderr:   [Previous line repeated 1 more time]
+2024-12-01 15:52:11,918 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 666, in parse_level
+2024-12-01 15:52:11,919 - kivy - WARNING - stderr:     raise ParserException(self, ln,
+2024-12-01 15:52:11,919 - kivy - WARNING - stderr: kivy.lang.parser.ParserException: Parser: File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\views\menu.kv", line 15:
+2024-12-01 15:52:11,920 - kivy - WARNING - stderr: ...
+2024-12-01 15:52:11,920 - kivy - WARNING - stderr:      13:                        halign: "center"
+2024-12-01 15:52:11,920 - kivy - WARNING - stderr:      14:                        size_hint: 1, 0.1
+2024-12-01 15:52:11,920 - kivy - WARNING - stderr: >>   15:                padding: '10dp'
+2024-12-01 15:52:11,921 - kivy - WARNING - stderr:      16:            MDGridLayout:
+2024-12-01 15:52:11,921 - kivy - WARNING - stderr:      17:                cols: 3
+2024-12-01 15:52:11,921 - kivy - WARNING - stderr: ...
+2024-12-01 15:52:11,921 - kivy - WARNING - stderr: Invalid data after declaration
+2024-12-01 15:52:31,118 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 15:52:31,119 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_10.txt
+2024-12-01 15:52:31,121 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 15:52:31,122 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 15:52:31,122 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 15:52:31,122 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 15:52:31,123 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 15:52:31,123 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 15:52:31,123 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 15:52:31,125 - kivy - INFO - Logger: Purge finished!
+2024-12-01 15:52:31,127 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 15:52:31,128 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 15:52:31,133 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 15:52:31,291 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 15:52:31,316 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 15:52:31,428 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 15:52:31,794 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 15:52:31,803 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 15:52:31,804 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 15:52:31,805 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 15:52:31,806 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 15:52:31,807 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 15:52:31,807 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 15:52:31,808 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 15:52:31,808 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 15:52:31,809 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 15:52:31,854 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 15:52:31,857 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 15:52:31,886 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 15:52:31,887 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 15:52:31,889 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 15:52:31,988 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 15:52:32,275 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 15:52:32,321 - kivy - INFO - Base: Start application main loop
+2024-12-01 15:56:49,900 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 15:56:49,902 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 15:56:49,903 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 15:56:49,904 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 15:56:49,905 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 15:56:49,906 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 15:56:49,906 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 15:56:49,937 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 15:56:49,938 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 15:56:49,939 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 15:56:49,940 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 379, in idle
+2024-12-01 15:56:49,941 - kivy - WARNING - stderr:     Clock.tick()
+2024-12-01 15:56:49,941 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 733, in tick
+2024-12-01 15:56:49,987 - kivy - WARNING - stderr:     self.post_idle(ts, self.idle())
+2024-12-01 15:56:49,988 - kivy - WARNING - stderr:                        ^^^^^^^^^^^
+2024-12-01 15:56:49,988 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 689, in idle
+2024-12-01 15:56:49,990 - kivy - WARNING - stderr:     usleep(1000000 * sleeptime)
+2024-12-01 15:56:49,991 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 965, in usleep
+2024-12-01 15:56:49,992 - kivy - WARNING - stderr:     _usleep(microseconds, self._sleep_obj)
+2024-12-01 15:56:49,993 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 504, in _usleep
+2024-12-01 15:56:49,995 - kivy - WARNING - stderr:     _kernel32.WaitForSingleObject(obj, 0xffffffff)
+2024-12-01 15:56:49,996 - kivy - WARNING - stderr: KeyboardInterrupt
+2024-12-01 15:56:55,619 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 15:56:55,620 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_11.txt
+2024-12-01 15:56:55,621 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 15:56:55,621 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 15:56:55,622 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 15:56:55,622 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 15:56:55,623 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 15:56:55,623 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 15:56:55,624 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 15:56:55,625 - kivy - INFO - Logger: Purge finished!
+2024-12-01 15:56:55,628 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 15:56:55,629 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 15:56:55,634 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 15:56:55,791 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 15:56:55,815 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 15:56:55,932 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 15:56:56,297 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 15:56:56,307 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 15:56:56,308 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 15:56:56,308 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 15:56:56,308 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 15:56:56,309 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 15:56:56,309 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 15:56:56,310 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 15:56:56,310 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 15:56:56,311 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 15:56:56,360 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 15:56:56,363 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 15:56:56,393 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 15:56:56,395 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 15:56:56,397 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 15:56:56,427 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 15:56:56,479 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 15:56:56,492 - kivy - INFO - Base: Start application main loop
+2024-12-01 15:59:41,892 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 15:59:41,895 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 15:59:41,895 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 15:59:41,897 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 15:59:41,902 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 15:59:41,906 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 15:59:41,912 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 15:59:41,915 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 15:59:41,917 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 15:59:41,922 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 15:59:41,924 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 379, in idle
+2024-12-01 15:59:41,928 - kivy - WARNING - stderr:     Clock.tick()
+2024-12-01 15:59:41,930 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 733, in tick
+2024-12-01 15:59:41,933 - kivy - WARNING - stderr:     self.post_idle(ts, self.idle())
+2024-12-01 15:59:41,934 - kivy - WARNING - stderr:                        ^^^^^^^^^^^
+2024-12-01 15:59:41,936 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 689, in idle
+2024-12-01 15:59:41,941 - kivy - WARNING - stderr:     usleep(1000000 * sleeptime)
+2024-12-01 15:59:41,942 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 965, in usleep
+2024-12-01 15:59:41,945 - kivy - WARNING - stderr:     _usleep(microseconds, self._sleep_obj)
+2024-12-01 15:59:41,946 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 504, in _usleep
+2024-12-01 15:59:41,949 - kivy - WARNING - stderr:     _kernel32.WaitForSingleObject(obj, 0xffffffff)
+2024-12-01 15:59:41,950 - kivy - WARNING - stderr: KeyboardInterrupt
+2024-12-01 15:59:46,567 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 15:59:46,568 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_12.txt
+2024-12-01 15:59:46,569 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 15:59:46,569 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 15:59:46,569 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 15:59:46,570 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 15:59:46,570 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 15:59:46,570 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 15:59:46,571 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 15:59:46,572 - kivy - INFO - Logger: Purge finished!
+2024-12-01 15:59:46,575 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 15:59:46,577 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 15:59:46,583 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 15:59:46,761 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 15:59:46,787 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 15:59:46,908 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 15:59:47,272 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 15:59:47,284 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 15:59:47,285 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 15:59:47,287 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 15:59:47,288 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 15:59:47,289 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 15:59:47,290 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 15:59:47,291 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 15:59:47,291 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 15:59:47,293 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 15:59:47,348 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 15:59:47,351 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 15:59:47,392 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 15:59:47,394 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 15:59:47,396 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 15:59:47,429 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 15:59:47,490 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 15:59:47,508 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:00:13,803 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:00:13,803 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 16:00:13,804 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 16:00:13,805 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 16:00:13,805 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 16:00:13,807 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 16:00:13,808 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 16:00:13,808 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 16:00:13,809 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 16:00:13,810 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 16:00:13,810 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 379, in idle
+2024-12-01 16:00:13,811 - kivy - WARNING - stderr:     Clock.tick()
+2024-12-01 16:00:13,812 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 733, in tick
+2024-12-01 16:00:13,814 - kivy - WARNING - stderr:     self.post_idle(ts, self.idle())
+2024-12-01 16:00:13,815 - kivy - WARNING - stderr:                        ^^^^^^^^^^^
+2024-12-01 16:00:13,815 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 689, in idle
+2024-12-01 16:00:13,818 - kivy - WARNING - stderr:     usleep(1000000 * sleeptime)
+2024-12-01 16:00:13,818 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 965, in usleep
+2024-12-01 16:00:13,821 - kivy - WARNING - stderr:     _usleep(microseconds, self._sleep_obj)
+2024-12-01 16:00:13,821 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 504, in _usleep
+2024-12-01 16:00:13,822 - kivy - WARNING - stderr:     _kernel32.WaitForSingleObject(obj, 0xffffffff)
+2024-12-01 16:00:13,823 - kivy - WARNING - stderr: KeyboardInterrupt
+2024-12-01 16:00:16,993 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:00:16,994 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_13.txt
+2024-12-01 16:00:16,995 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:00:16,995 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:00:16,996 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:00:16,996 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:00:16,997 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:00:16,998 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:00:16,998 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:00:17,000 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:00:17,002 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:00:17,003 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:00:17,009 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:00:17,170 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:00:17,195 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:00:17,315 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:00:17,658 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:00:17,667 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:00:17,668 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:00:17,669 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:00:17,670 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:00:17,671 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:00:17,672 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:00:17,672 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:00:17,673 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:00:17,673 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:00:17,719 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:00:17,722 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:00:17,762 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:00:17,765 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:00:17,766 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:00:17,794 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:00:17,844 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:00:17,858 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:00:45,413 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:00:45,414 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 16:00:45,415 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 16:00:45,415 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 16:00:45,416 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 16:00:45,417 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 16:00:45,417 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 16:00:45,418 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 16:00:45,419 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 16:00:45,419 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 16:00:45,420 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 379, in idle
+2024-12-01 16:00:45,421 - kivy - WARNING - stderr:     Clock.tick()
+2024-12-01 16:00:45,421 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 733, in tick
+2024-12-01 16:00:45,423 - kivy - WARNING - stderr:     self.post_idle(ts, self.idle())
+2024-12-01 16:00:45,424 - kivy - WARNING - stderr:                        ^^^^^^^^^^^
+2024-12-01 16:00:45,424 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 689, in idle
+2024-12-01 16:00:45,425 - kivy - WARNING - stderr:     usleep(1000000 * sleeptime)
+2024-12-01 16:00:45,425 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 965, in usleep
+2024-12-01 16:00:45,427 - kivy - WARNING - stderr:     _usleep(microseconds, self._sleep_obj)
+2024-12-01 16:00:45,428 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 504, in _usleep
+2024-12-01 16:00:45,429 - kivy - WARNING - stderr:     _kernel32.WaitForSingleObject(obj, 0xffffffff)
+2024-12-01 16:00:45,430 - kivy - WARNING - stderr: KeyboardInterrupt
+2024-12-01 16:00:47,630 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:00:47,631 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_14.txt
+2024-12-01 16:00:47,632 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:00:47,633 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:00:47,633 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:00:47,634 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:00:47,634 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:00:47,634 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:00:47,635 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:00:47,638 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:00:47,640 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:00:47,641 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:00:47,648 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:00:47,807 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:00:47,831 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:00:47,943 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:00:48,289 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:00:48,298 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:00:48,299 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:00:48,301 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:00:48,302 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:00:48,303 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:00:48,303 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:00:48,304 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:00:48,304 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:00:48,304 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:00:48,354 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:00:48,357 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:00:48,393 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:00:48,395 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:00:48,398 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:00:48,432 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:00:48,484 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:00:48,498 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:20:13,904 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:23:39,009 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:23:39,011 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_15.txt
+2024-12-01 16:23:39,012 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:23:39,013 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:23:39,013 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:23:39,013 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:23:39,014 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:23:39,014 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:23:39,015 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:23:39,017 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:23:39,019 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:23:39,020 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:23:39,026 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:23:39,240 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:23:39,263 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:23:39,382 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:23:39,785 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:23:39,796 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:23:39,797 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:23:39,798 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:23:39,798 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:23:39,799 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:23:39,799 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:23:39,799 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:23:39,799 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:23:39,800 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:23:39,854 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:23:39,858 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:23:39,890 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:23:39,892 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:23:39,893 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:23:39,907 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:23:39,967 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:23:39,993 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:23:48,753 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:24:39,380 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:24:39,382 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_16.txt
+2024-12-01 16:24:39,383 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:24:39,383 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:24:39,383 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:24:39,383 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:24:39,384 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:24:39,384 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:24:39,385 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:24:39,387 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:24:39,389 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:24:39,390 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:24:39,395 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:24:39,558 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:24:39,583 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:24:39,698 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:24:40,044 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:24:40,056 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:24:40,057 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:24:40,058 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:24:40,058 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:24:40,059 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:24:40,060 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:24:40,060 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:24:40,060 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:24:40,061 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:24:40,108 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:24:40,111 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:24:40,143 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:24:40,145 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:24:40,146 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:24:40,178 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:24:40,228 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:24:40,242 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:24:48,356 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:25:32,805 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:25:32,807 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_17.txt
+2024-12-01 16:25:32,808 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:25:32,809 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:25:32,809 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:25:32,809 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:25:32,810 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:25:32,810 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:25:32,811 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:25:32,814 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:25:32,816 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:25:32,817 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:25:32,823 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:25:32,994 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:25:33,015 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:25:33,130 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:25:33,487 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:25:33,496 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:25:33,497 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:25:33,497 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:25:33,498 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:25:33,498 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:25:33,499 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:25:33,499 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:25:33,499 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:25:33,499 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:25:33,557 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:25:33,560 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:25:33,594 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:25:33,596 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:25:33,597 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:25:33,631 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:25:33,689 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:25:33,701 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:26:09,429 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:26:09,430 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 16:26:09,430 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 16:26:09,431 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 16:26:09,431 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 16:26:09,433 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 16:26:09,433 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 16:26:09,434 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 16:26:09,435 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 16:26:09,436 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 16:26:09,437 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 379, in idle
+2024-12-01 16:26:09,438 - kivy - WARNING - stderr:     Clock.tick()
+2024-12-01 16:26:09,439 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 733, in tick
+2024-12-01 16:26:09,441 - kivy - WARNING - stderr:     self.post_idle(ts, self.idle())
+2024-12-01 16:26:09,442 - kivy - WARNING - stderr:                        ^^^^^^^^^^^
+2024-12-01 16:26:09,442 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 689, in idle
+2024-12-01 16:26:09,444 - kivy - WARNING - stderr:     usleep(1000000 * sleeptime)
+2024-12-01 16:26:09,444 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 965, in usleep
+2024-12-01 16:26:09,446 - kivy - WARNING - stderr:     _usleep(microseconds, self._sleep_obj)
+2024-12-01 16:26:09,447 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 504, in _usleep
+2024-12-01 16:26:09,448 - kivy - WARNING - stderr:     _kernel32.WaitForSingleObject(obj, 0xffffffff)
+2024-12-01 16:26:09,449 - kivy - WARNING - stderr: KeyboardInterrupt
+2024-12-01 16:26:11,071 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:26:11,072 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_18.txt
+2024-12-01 16:26:11,073 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:26:11,073 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:26:11,074 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:26:11,074 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:26:11,075 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:26:11,075 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:26:11,076 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:26:11,078 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:26:11,080 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:26:11,081 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:26:11,086 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:26:11,242 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:26:11,267 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:26:11,377 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:26:11,715 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:26:11,726 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:26:11,728 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:26:11,728 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:26:11,729 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:26:11,729 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:26:11,729 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:26:11,730 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:26:11,730 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:26:11,730 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:26:11,780 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:26:11,783 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:26:11,810 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:26:11,812 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:26:11,813 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:26:11,845 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:26:11,904 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:26:11,916 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:26:14,986 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:28:01,398 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:28:01,399 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_19.txt
+2024-12-01 16:28:01,401 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:28:01,402 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:28:01,402 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:28:01,402 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:28:01,403 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:28:01,403 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:28:01,404 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:28:01,406 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:28:01,408 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:28:01,409 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:28:01,414 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:28:01,566 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:28:01,590 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:28:01,701 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:28:02,044 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:28:02,055 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:28:02,056 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:28:02,057 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:28:02,058 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:28:02,058 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:28:02,058 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:28:02,059 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:28:02,060 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:28:02,061 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:28:02,112 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:28:02,115 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:28:02,149 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:28:02,150 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:28:02,152 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:28:02,184 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:28:02,242 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:28:02,258 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:28:04,983 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:29:58,402 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:29:58,403 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_20.txt
+2024-12-01 16:29:58,405 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:29:58,405 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:29:58,405 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:29:58,405 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:29:58,406 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:29:58,406 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:29:58,407 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:29:58,409 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:29:58,412 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:29:58,413 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:29:58,419 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:29:58,575 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:29:58,600 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:29:58,717 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:29:59,107 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:29:59,118 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:29:59,119 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:29:59,120 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:29:59,121 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:29:59,122 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:29:59,124 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:29:59,127 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:29:59,128 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:29:59,129 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:29:59,192 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:29:59,195 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:29:59,229 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:29:59,231 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:29:59,232 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:29:59,246 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:29:59,301 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:29:59,314 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:30:03,224 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:34:52,602 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:34:52,604 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_21.txt
+2024-12-01 16:34:52,604 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:34:52,605 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:34:52,606 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:34:52,606 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:34:52,607 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:34:52,607 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:34:52,608 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:34:52,609 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:34:52,611 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:34:52,612 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:34:52,617 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:34:52,781 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:34:52,811 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:34:52,926 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:34:53,281 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:34:53,292 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:34:53,293 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:34:53,293 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:34:53,294 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:34:53,295 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:34:53,297 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:34:53,298 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:34:53,298 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:34:53,299 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:34:53,352 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:34:53,355 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:34:53,392 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:34:53,394 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:34:53,395 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:34:53,430 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:34:53,481 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:34:53,497 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:41:55,299 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 16:41:55,300 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 16:41:55,300 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 16:41:55,301 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 16:41:55,301 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 16:41:55,303 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 16:41:55,303 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 16:41:55,304 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 16:41:55,305 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 16:41:55,306 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 16:41:55,306 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 379, in idle
+2024-12-01 16:41:55,307 - kivy - WARNING - stderr:     Clock.tick()
+2024-12-01 16:41:55,307 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 733, in tick
+2024-12-01 16:41:55,308 - kivy - WARNING - stderr:     self.post_idle(ts, self.idle())
+2024-12-01 16:41:55,309 - kivy - WARNING - stderr:                        ^^^^^^^^^^^
+2024-12-01 16:41:55,309 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 689, in idle
+2024-12-01 16:41:55,312 - kivy - WARNING - stderr:     usleep(1000000 * sleeptime)
+2024-12-01 16:41:55,313 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 965, in usleep
+2024-12-01 16:41:55,314 - kivy - WARNING - stderr:     _usleep(microseconds, self._sleep_obj)
+2024-12-01 16:41:55,315 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\clock.py", line 504, in _usleep
+2024-12-01 16:41:55,317 - kivy - WARNING - stderr:     _kernel32.WaitForSingleObject(obj, 0xffffffff)
+2024-12-01 16:41:55,317 - kivy - WARNING - stderr: KeyboardInterrupt
+2024-12-01 16:41:56,639 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:41:56,640 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_22.txt
+2024-12-01 16:41:56,641 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:41:56,641 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:41:56,641 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:41:56,641 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:41:56,642 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:41:56,642 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:41:56,643 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:41:56,645 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:41:56,648 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:41:56,648 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:41:56,655 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:41:56,819 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:41:56,841 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:41:56,944 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:41:57,213 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:41:57,223 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:41:57,223 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:41:57,224 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:41:57,224 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:41:57,224 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:41:57,225 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:41:57,226 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:41:57,226 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:41:57,227 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:41:57,259 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:41:57,263 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:41:57,288 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:41:57,289 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:41:57,290 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:41:57,309 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 16:41:57,309 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 26, in <module>
+2024-12-01 16:41:57,311 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 16:41:57,312 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 955, in run
+2024-12-01 16:41:57,314 - kivy - WARNING - stderr:     self._run_prepare()
+2024-12-01 16:41:57,314 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 925, in _run_prepare
+2024-12-01 16:41:57,316 - kivy - WARNING - stderr:     root = self.build()
+2024-12-01 16:41:57,317 - kivy - WARNING - stderr:            ^^^^^^^^^^^^
+2024-12-01 16:41:57,317 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 19, in build
+2024-12-01 16:41:57,318 - kivy - WARNING - stderr:     Builder.load_file("views/menu.kv")
+2024-12-01 16:41:57,319 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 310, in load_file
+2024-12-01 16:41:57,320 - kivy - WARNING - stderr:     return self.load_string(data, **kwargs)
+2024-12-01 16:41:57,320 - kivy - WARNING - stderr:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 16:41:57,321 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 377, in load_string
+2024-12-01 16:41:57,322 - kivy - WARNING - stderr:     parser = Parser(content=string, filename=fn)
+2024-12-01 16:41:57,322 - kivy - WARNING - stderr:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 16:41:57,322 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 483, in __init__
+2024-12-01 16:41:57,324 - kivy - WARNING - stderr:     self.parse(content)
+2024-12-01 16:41:57,325 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 597, in parse
+2024-12-01 16:41:57,326 - kivy - WARNING - stderr:     rule.precompile()
+2024-12-01 16:41:57,326 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 16:41:57,327 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 16:41:57,328 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 16:41:57,329 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 16:41:57,330 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 345, in precompile
+2024-12-01 16:41:57,331 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 16:41:57,332 - kivy - WARNING - stderr:   [Previous line repeated 1 more time]
+2024-12-01 16:41:57,333 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 343, in precompile
+2024-12-01 16:41:57,334 - kivy - WARNING - stderr:     x.precompile()
+2024-12-01 16:41:57,334 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\parser.py", line 194, in precompile
+2024-12-01 16:41:57,335 - kivy - WARNING - stderr:     self.co_value = compile(value, self.ctx.filename or '<string>', mode)
+2024-12-01 16:41:57,336 - kivy - WARNING - stderr:                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 16:41:57,337 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\views\menu.kv", line 27
+2024-12-01 16:41:57,337 - kivy - WARNING - stderr:     border: 0, 0, 0, 0
+2024-12-01 16:41:57,337 - kivy - WARNING - stderr: SyntaxError: invalid syntax
+2024-12-01 16:42:12,742 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 16:42:12,743 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_23.txt
+2024-12-01 16:42:12,744 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 16:42:12,745 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 16:42:12,746 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 16:42:12,746 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 16:42:12,747 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 16:42:12,747 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 16:42:12,748 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 16:42:12,750 - kivy - INFO - Logger: Purge finished!
+2024-12-01 16:42:12,753 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 16:42:12,754 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 16:42:12,762 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 16:42:12,926 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 16:42:12,948 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 16:42:13,060 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 16:42:13,413 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 16:42:13,425 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 16:42:13,425 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 16:42:13,426 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 16:42:13,427 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 16:42:13,428 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 16:42:13,429 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 16:42:13,430 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 16:42:13,431 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 16:42:13,432 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 16:42:13,480 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 16:42:13,483 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 16:42:13,517 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 16:42:13,519 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 16:42:13,520 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 16:42:13,550 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 16:42:13,606 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 16:42:13,620 - kivy - INFO - Base: Start application main loop
+2024-12-01 16:42:28,929 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 22:04:50,175 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 22:04:50,179 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_24.txt
+2024-12-01 22:04:50,179 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 22:04:50,179 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 22:04:50,180 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 22:04:50,180 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 22:04:50,180 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 22:04:50,180 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 22:04:50,181 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 22:04:50,183 - kivy - INFO - Logger: Purge finished!
+2024-12-01 22:04:50,192 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 22:04:50,193 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 22:04:50,236 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 22:04:51,170 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 22:04:51,538 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 22:04:52,161 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 22:04:52,687 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 22:04:52,699 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 22:04:52,700 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 22:04:52,701 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 22:04:52,702 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 22:04:52,702 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 22:04:52,703 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 22:04:52,704 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 22:04:52,705 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 22:04:52,706 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 22:04:52,784 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 22:04:52,788 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 22:04:53,064 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 22:04:53,071 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 22:04:53,075 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 22:04:53,141 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 22:04:53,332 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 22:04:53,364 - kivy - INFO - Base: Start application main loop
+2024-12-01 22:04:57,759 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 22:06:56,864 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 22:06:56,865 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_25.txt
+2024-12-01 22:06:56,866 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 22:06:56,866 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 22:06:56,866 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 22:06:56,867 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 22:06:56,867 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 22:06:56,867 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 22:06:56,868 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 22:06:56,870 - kivy - INFO - Logger: Purge finished!
+2024-12-01 22:06:56,882 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 22:06:56,883 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 22:06:56,923 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 22:06:57,718 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 22:06:58,062 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 22:06:58,659 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 22:06:59,195 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 22:06:59,205 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 22:06:59,206 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 22:06:59,207 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 22:06:59,207 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 22:06:59,208 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 22:06:59,208 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 22:06:59,209 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 22:06:59,210 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 22:06:59,210 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 22:06:59,246 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 22:06:59,249 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 22:06:59,514 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 22:06:59,516 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 22:06:59,517 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 22:06:59,578 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 22:06:59,762 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 22:06:59,793 - kivy - INFO - Base: Start application main loop
+2024-12-01 22:07:02,340 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 22:07:02,342 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 22:07:02,342 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 30, in <module>
+2024-12-01 22:07:02,343 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 22:07:02,344 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 22:07:02,358 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 22:07:02,358 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 22:07:02,374 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 22:07:02,374 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 22:07:02,375 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 22:07:02,376 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 383, in idle
+2024-12-01 22:07:02,377 - kivy - WARNING - stderr:     self.dispatch_input()
+2024-12-01 22:07:02,377 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 334, in dispatch_input
+2024-12-01 22:07:02,378 - kivy - WARNING - stderr:     post_dispatch_input(*pop(0))
+2024-12-01 22:07:02,378 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 263, in post_dispatch_input
+2024-12-01 22:07:02,378 - kivy - WARNING - stderr:     listener.dispatch('on_motion', etype, me)
+2024-12-01 22:07:02,379 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:02,379 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\core\window\__init__.py", line 1709, in on_motion
+2024-12-01 22:07:02,393 - kivy - WARNING - stderr:     self.dispatch('on_touch_down', me)
+2024-12-01 22:07:02,393 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:02,394 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\core\window\__init__.py", line 1726, in on_touch_down
+2024-12-01 22:07:02,395 - kivy - WARNING - stderr:     if w.dispatch('on_touch_down', touch):
+2024-12-01 22:07:02,395 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:02,395 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:02,396 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\screenmanager.py", line 1210, in on_touch_down
+2024-12-01 22:07:02,413 - kivy - WARNING - stderr:     return super(ScreenManager, self).on_touch_down(touch)
+2024-12-01 22:07:02,414 - kivy - WARNING - stderr:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:02,414 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 589, in on_touch_down
+2024-12-01 22:07:02,428 - kivy - WARNING - stderr:     if child.dispatch('on_touch_down', touch):
+2024-12-01 22:07:02,429 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:02,429 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:02,430 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\relativelayout.py", line 306, in on_touch_down
+2024-12-01 22:07:02,442 - kivy - WARNING - stderr:     ret = super(RelativeLayout, self).on_touch_down(touch)
+2024-12-01 22:07:02,442 - kivy - WARNING - stderr:           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:02,442 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 589, in on_touch_down
+2024-12-01 22:07:02,443 - kivy - WARNING - stderr:     if child.dispatch('on_touch_down', touch):
+2024-12-01 22:07:02,444 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:02,444 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:02,445 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 589, in on_touch_down
+2024-12-01 22:07:02,446 - kivy - WARNING - stderr:     if child.dispatch('on_touch_down', touch):
+2024-12-01 22:07:02,447 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:02,447 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:02,447 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 589, in on_touch_down
+2024-12-01 22:07:02,448 - kivy - WARNING - stderr:     if child.dispatch('on_touch_down', touch):
+2024-12-01 22:07:02,449 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:02,449 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:02,449 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\behaviors\button.py", line 151, in on_touch_down
+2024-12-01 22:07:02,463 - kivy - WARNING - stderr:     self.dispatch('on_press')
+2024-12-01 22:07:02,463 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 727, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:02,464 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 1307, in kivy._event.EventObservers.dispatch
+2024-12-01 22:07:02,465 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 1191, in kivy._event.EventObservers._dispatch
+2024-12-01 22:07:02,466 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 60, in custom_callback
+2024-12-01 22:07:02,494 - kivy - WARNING - stderr:     exec(__kvlang__.co_value, idmap)
+2024-12-01 22:07:02,494 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\views\menu.kv", line 32, in <module>
+2024-12-01 22:07:02,495 - kivy - WARNING - stderr:     self.print_info()
+2024-12-01 22:07:02,495 - kivy - WARNING - stderr: 
+2024-12-01 22:07:02,495 - kivy - WARNING - stderr:   File "kivy\\weakproxy.pyx", line 32, in kivy.weakproxy.WeakProxy.__getattr__
+2024-12-01 22:07:02,496 - kivy - WARNING - stderr: AttributeError: 'Button' object has no attribute 'print_info'
+2024-12-01 22:07:29,895 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 22:07:29,896 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_26.txt
+2024-12-01 22:07:29,896 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 22:07:29,898 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 22:07:29,898 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 22:07:29,898 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 22:07:29,898 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 22:07:29,899 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 22:07:29,899 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 22:07:29,900 - kivy - INFO - Logger: Purge finished!
+2024-12-01 22:07:29,904 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 22:07:29,904 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 22:07:29,910 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 22:07:30,049 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 22:07:30,068 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 22:07:30,178 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 22:07:30,450 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 22:07:30,461 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 22:07:30,462 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 22:07:30,462 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 22:07:30,463 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 22:07:30,463 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 22:07:30,464 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 22:07:30,464 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 22:07:30,465 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 22:07:30,465 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 22:07:30,494 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 22:07:30,496 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 22:07:30,517 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 22:07:30,518 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 22:07:30,519 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 22:07:30,542 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 22:07:30,582 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 22:07:30,594 - kivy - INFO - Base: Start application main loop
+2024-12-01 22:07:31,661 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 22:07:31,663 - kivy - WARNING - stderr: Traceback (most recent call last):
+2024-12-01 22:07:31,663 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\tester.py", line 30, in <module>
+2024-12-01 22:07:31,664 - kivy - WARNING - stderr:     MainApp().run()
+2024-12-01 22:07:31,664 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\app.py", line 956, in run
+2024-12-01 22:07:31,665 - kivy - WARNING - stderr:     runTouchApp()
+2024-12-01 22:07:31,666 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 574, in runTouchApp
+2024-12-01 22:07:31,666 - kivy - WARNING - stderr:     EventLoop.mainloop()
+2024-12-01 22:07:31,667 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 339, in mainloop
+2024-12-01 22:07:31,668 - kivy - WARNING - stderr:     self.idle()
+2024-12-01 22:07:31,668 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 383, in idle
+2024-12-01 22:07:31,669 - kivy - WARNING - stderr:     self.dispatch_input()
+2024-12-01 22:07:31,669 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 334, in dispatch_input
+2024-12-01 22:07:31,670 - kivy - WARNING - stderr:     post_dispatch_input(*pop(0))
+2024-12-01 22:07:31,671 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\base.py", line 263, in post_dispatch_input
+2024-12-01 22:07:31,671 - kivy - WARNING - stderr:     listener.dispatch('on_motion', etype, me)
+2024-12-01 22:07:31,672 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:31,673 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\core\window\__init__.py", line 1709, in on_motion
+2024-12-01 22:07:31,674 - kivy - WARNING - stderr:     self.dispatch('on_touch_down', me)
+2024-12-01 22:07:31,674 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:31,675 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\core\window\__init__.py", line 1726, in on_touch_down
+2024-12-01 22:07:31,676 - kivy - WARNING - stderr:     if w.dispatch('on_touch_down', touch):
+2024-12-01 22:07:31,677 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:31,677 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:31,678 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\screenmanager.py", line 1210, in on_touch_down
+2024-12-01 22:07:31,679 - kivy - WARNING - stderr:     return super(ScreenManager, self).on_touch_down(touch)
+2024-12-01 22:07:31,679 - kivy - WARNING - stderr:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:31,680 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 589, in on_touch_down
+2024-12-01 22:07:31,681 - kivy - WARNING - stderr:     if child.dispatch('on_touch_down', touch):
+2024-12-01 22:07:31,681 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:31,682 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:31,683 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\relativelayout.py", line 306, in on_touch_down
+2024-12-01 22:07:31,684 - kivy - WARNING - stderr:     ret = super(RelativeLayout, self).on_touch_down(touch)
+2024-12-01 22:07:31,685 - kivy - WARNING - stderr:           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:31,685 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 589, in on_touch_down
+2024-12-01 22:07:31,686 - kivy - WARNING - stderr:     if child.dispatch('on_touch_down', touch):
+2024-12-01 22:07:31,687 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:31,687 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:31,688 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 589, in on_touch_down
+2024-12-01 22:07:31,690 - kivy - WARNING - stderr:     if child.dispatch('on_touch_down', touch):
+2024-12-01 22:07:31,690 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:31,691 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:31,691 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\widget.py", line 589, in on_touch_down
+2024-12-01 22:07:31,692 - kivy - WARNING - stderr:     if child.dispatch('on_touch_down', touch):
+2024-12-01 22:07:31,693 - kivy - WARNING - stderr:        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-01 22:07:31,693 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 731, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:31,694 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\uix\behaviors\button.py", line 151, in on_touch_down
+2024-12-01 22:07:31,695 - kivy - WARNING - stderr:     self.dispatch('on_press')
+2024-12-01 22:07:31,695 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 727, in kivy._event.EventDispatcher.dispatch
+2024-12-01 22:07:31,696 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 1307, in kivy._event.EventObservers.dispatch
+2024-12-01 22:07:31,697 - kivy - WARNING - stderr:   File "kivy\\_event.pyx", line 1191, in kivy._event.EventObservers._dispatch
+2024-12-01 22:07:31,698 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\lang\builder.py", line 60, in custom_callback
+2024-12-01 22:07:31,699 - kivy - WARNING - stderr:     exec(__kvlang__.co_value, idmap)
+2024-12-01 22:07:31,699 - kivy - WARNING - stderr:   File "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\views\menu.kv", line 32, in <module>
+2024-12-01 22:07:31,700 - kivy - WARNING - stderr:     print_info()
+2024-12-01 22:07:31,700 - kivy - WARNING - stderr: 
+2024-12-01 22:07:31,701 - kivy - WARNING - stderr: NameError: name 'print_info' is not defined
+2024-12-01 22:08:25,551 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 22:08:25,552 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_27.txt
+2024-12-01 22:08:25,553 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 22:08:25,553 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 22:08:25,553 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 22:08:25,553 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 22:08:25,553 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 22:08:25,553 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 22:08:25,554 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 22:08:25,557 - kivy - INFO - Logger: Purge finished!
+2024-12-01 22:08:25,559 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 22:08:25,559 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 22:08:25,567 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 22:08:25,730 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 22:08:25,749 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 22:08:25,864 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 22:08:26,176 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 22:08:26,187 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 22:08:26,188 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 22:08:26,188 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 22:08:26,189 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 22:08:26,190 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 22:08:26,191 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 22:08:26,191 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 22:08:26,192 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 22:08:26,192 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 22:08:26,232 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 22:08:26,235 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 22:08:26,261 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 22:08:26,262 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 22:08:26,263 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 22:08:26,287 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 22:08:26,332 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 22:08:26,347 - kivy - INFO - Base: Start application main loop
+2024-12-01 22:15:46,343 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 22:17:38,638 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 22:17:38,639 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_28.txt
+2024-12-01 22:17:38,640 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 22:17:38,640 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 22:17:38,640 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 22:17:38,640 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 22:17:38,640 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 22:17:38,640 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 22:17:38,641 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 22:17:38,643 - kivy - INFO - Logger: Purge finished!
+2024-12-01 22:17:38,645 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 22:17:38,645 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 22:17:38,652 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 22:17:38,781 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 22:17:38,798 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 22:17:38,901 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 22:17:39,194 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 22:17:39,203 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 22:17:39,204 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 22:17:39,204 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 22:17:39,205 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 22:17:39,206 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 22:17:39,206 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 22:17:39,207 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 22:17:39,207 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 22:17:39,207 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 22:17:39,242 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 22:17:39,245 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 22:17:39,273 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 22:17:39,274 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 22:17:39,275 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 22:17:39,284 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 22:17:39,329 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 22:17:39,341 - kivy - INFO - Base: Start application main loop
+2024-12-01 22:17:42,719 - kivy - INFO - Base: Leaving application in progress...
+2024-12-01 22:42:47,403 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-12-01 22:42:47,404 - kivy - INFO - Logger: Record log in C:\Users\Eduardo Bachmann\.kivy\logs\kivy_24-12-01_29.txt
+2024-12-01 22:42:47,405 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-12-01 22:42:47,405 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-12-01 22:42:47,405 - kivy - INFO - Kivy: v2.3.0
+2024-12-01 22:42:47,406 - kivy - INFO - Kivy: Installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivy\__init__.py"
+2024-12-01 22:42:47,406 - kivy - INFO - Python: v3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+2024-12-01 22:42:47,406 - kivy - INFO - Python: Interpreter at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Scripts\python.exe"
+2024-12-01 22:42:47,407 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-12-01 22:42:47,410 - kivy - INFO - Logger: Purge finished!
+2024-12-01 22:42:47,411 - kivy - INFO - KivyMD: 1.2.0, git-Unknown, 2024-12-01 (installed at "C:\Users\Eduardo Bachmann\Documents\workspace\control_gastos\venv\Lib\site-packages\kivymd\__init__.py")
+2024-12-01 22:42:47,412 - kivy - WARNING - KivyMD: Version 1.2.0 is deprecated and is no longer supported. Use KivyMD version 2.0.0 from the master branch (pip install https://github.com/kivymd/KivyMD/archive/master.zip)
+2024-12-01 22:42:47,417 - kivy - INFO - Factory: 195 symbols loaded
+2024-12-01 22:42:47,579 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-12-01 22:42:47,597 - kivy - INFO - Text: Provider: sdl2
+2024-12-01 22:42:47,700 - kivy - INFO - Window: Provider: sdl2
+2024-12-01 22:42:48,052 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-12-01 22:42:48,065 - kivy - INFO - GL: GLEW initialization succeeded
+2024-12-01 22:42:48,066 - kivy - INFO - GL: Backend used <glew>
+2024-12-01 22:42:48,066 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.09.231220'>
+2024-12-01 22:42:48,067 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-12-01 22:42:48,068 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-12-01 22:42:48,069 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-12-01 22:42:48,069 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-12-01 22:42:48,069 - kivy - INFO - GL: Texture max size <16384>
+2024-12-01 22:42:48,069 - kivy - INFO - GL: Texture max units <32>
+2024-12-01 22:42:48,096 - kivy - INFO - Window: auto add sdl2 input provider
+2024-12-01 22:42:48,099 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-12-01 22:42:48,124 - __main__ - INFO - Iniciando la aplicación
+2024-12-01 22:42:48,125 - controller.database_controller - INFO - Conexión establecida
+2024-12-01 22:42:48,126 - controller.database_controller - INFO - las tablas ya existen
+2024-12-01 22:42:48,143 - kivy - INFO - Clipboard: Provider: winctypes
+2024-12-01 22:42:48,178 - kivy - INFO - GL: NPOT texture support is available
+2024-12-01 22:42:48,200 - kivy - INFO - Base: Start application main loop
+2024-12-01 22:42:55,000 - kivy - INFO - Base: Leaving application in progress...

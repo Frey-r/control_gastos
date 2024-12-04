@@ -1,0 +1,7 @@
+pandas
+kivymd
+buildozer
+pyzbar
+pillow
+opencv-python
+openpyxl

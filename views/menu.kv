@@ -1,0 +1,55 @@
+<ui>:
+    MDScreen:
+        name: "menu_principal"
+        MDBoxLayout:
+            orientation: "vertical"
+            md_bg_color: [229, 239, 255]
+            MDBoxLayout: 
+                size_hint: 1, 0.7
+                orientation: "horizontal"
+                padding: '10dp'
+                MDCard:
+                    color: [219, 245, 245]
+                    radius: 0
+                    padding: '10dp'
+                    MDLabel:
+                        text: "Control de Gastos"
+                        font_style: "H1"
+                        halign: "center"
+                        size_hint: 1, 0.5
+                
+            MDGridLayout:
+                cols: 3
+                size_hint: 1, 0.8
+                Button:
+                    text: "Ingresar compra"
+                    on_press:
+                        color: [219, 225, 245]
+                    color:[219, 245, 245]
+                Button:
+                    text: "Leer código"
+                    on_press:
+                        app.print_info()
+                        color: [219, 225, 245]
+                    color:[219, 245, 245]
+                Button:
+                    text: "Salir"
+                    on_press:
+                        color: [219, 225, 245]
+                        app.stop()
+                    color:[219, 245, 245]
+    MDScreen:
+        name: "menu_compra"
+        MDBoxLayout:
+            orientation: "vertical"
+            TextInput:
+                hint_text: "Ingrese el nombre del producto"
+            TextInput:
+                hint_text: "Ingrese la cantidad"
+            TextInput:
+                hint_text: "Ingrese el precio"
+            Button:
+                text: "Comprar"
+                on_press:
+                    color: [219, 225, 245]
+                color:[219, 245, 245]
