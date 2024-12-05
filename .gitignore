@@ -3,3 +3,4 @@ tester.py
 __pycache__/*
 venv/*
 *.log
+*.pyc
