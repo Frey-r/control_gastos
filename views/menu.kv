@@ -1,41 +1,125 @@
 #:kivy 2.0.0
 <ui>:
+    root: root
+    size: root.size
+    orientation: "vertical"
     MDScreen:
         name: "menu_principal"
         MDBoxLayout:
             orientation: "vertical"
-            md_bg_color: app.theme_cls.primary_color
             MDBoxLayout: 
-                size_hint: 1, 1
+                size_hint: 1,.1
                 orientation: "vertical"
-                padding: '5dp'
-                margin: '5dp'
+                padding: '25dp'
+                spacing: '5dp'
                 MDCard:
+                    size_hint_y: .7
                     name: "Barcode"
                     margin: '5dp'
+                    align: "right"
                     on_press:
-                        app.working()
+                        app.prin_data(self.size_hint)
+                    Label:
+                        text: "Codigo de Barras"
+                        color: app.theme_cls.accent_color
+                    
                 MDCard:
+                    size_hint_y: .7
                     name: "Ingreso Gastos"
                     margin: '5dp'
                     on_press: 
-                        app.read_barcode()  
+                        app.root.current = "ingreso_compra"
                     Label:
                         text: "Nueva Compra"
                         color: app.theme_cls.accent_color
 
                 MDCard:
+                    size_hint_y: .7
                     name: "Estadisticas"
                     margin: '5dp'
-                    on_press:
-                        app.working()
+                    Label:
+                        text: "Estadísticas"
+                        color: app.theme_cls.accent_color
+
                 MDCard:
+                    size_hint_y: .7
                     name: "Grupo"
                     margin: '5dp'
-                    on_press:
-                        app.working()
+                    #on_press:
+                    Label:
+                        text: "Grupo"
+                        color: app.theme_cls.accent_color
+                        
                 MDCard:
+                    size_hint_y: .7
                     name: "Distribuidores"
                     margin: '5dp'
-                    on_press:
-                        app.working() 
+                    #on_press:
+                    Label:
+                        text: "Distribuidores"
+                        color: app.theme_cls.accent_color
+    MDScreen:
+        name: "ingreso_compra"
+        MDBoxLayout:
+            md_bg_color: app.theme_cls.primary_color
+            orientation: "vertical"
+            padding: '25dp'
+            spacing: '100dp'
+            MDGridLayout:
+                spacing: '5dp'
+                size_hint_x: 1
+                size_hint_y: .2
+                cols: 2
+                rows: 4
+                pos_hint: {'center_x': .5, 'top_y': 0}
+                Label:
+                    text: "Precio"
+                    size_hint_y: .05
+                    size_hint_x: .25
+                    pos_hint: {'right_x': 0, 'top_y': .01}
+                TextInput:
+                    id: txtPrecio
+                    hint_text: "Precio"
+                    multiline: False
+                    size_hint_y: .05
+                    pos_hint: {'center_x': .2, 'top_y': .01}
+                Label:
+                    text: "Cantidad"
+                    size_hint_y: .05
+                    size_hint_x: .25
+                    pos_hint: {'right_x': 0, 'top_y': .01}
+                TextInput:
+                    id: txtCantidad
+                    hint_text: "Cantidad"
+                    multiline: False
+                    size_hint_y: .05
+                    pos_hint: {'center_x': .2, 'top_y': .01}
+                Label:
+                    text: "Nombre"
+                    size_hint_y: .05
+                    size_hint_x: .25
+                    pos_hint: {'right_x': 0, 'top_y': .01}
+                TextInput:
+                    id: txtNombre
+                    hint_text: "Nombre"
+                    multiline: False
+                    size_hint_y: .05
+                    pos_hint: {'center_x': .2, 'top_y': .01}
+                Label:
+                    text: "Distribuidor"
+                    size_hint_y: .05
+                    size_hint_x: .25
+                    pos_hint: {'right_x': 0, 'top_y': .01}
+                TextInput:
+                    id: txtDistribuidor
+                    hint_text: "Distribuidor"
+                    multiline: False
+                    size_hint_y: .05
+                    pos_hint: {'center_x': .2, 'top_y': .01}
+            Button:
+                text: "Enviar"
+                size_hint: (.05,.02)
+                pos_hint: {'left_x': .01, 'bottom_y': .01}
+                on_press: 
+                    app.send_new_compra(txtNombre.text, txtCantidad.text, txtPrecio.text, txtDistribuidor.text)
+                    
