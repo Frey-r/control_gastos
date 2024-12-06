@@ -5,6 +5,7 @@ from kivymd.app import MDApp
 from kivy.lang import Builder
 import datetime
 
+
 logger = logger_config.get_logger(__name__)
 Builder.load_file("views/menu.kv")
 
@@ -18,7 +19,6 @@ class App(MDApp):
 
     def send_new_compra(self,precio, cantidad, nombre, distribuidor):
         logger.info("Creando nueva compra")
-        
         compra = {
             'fecha': datetime.datetime.now(),
             'producto_id': "",
@@ -30,11 +30,8 @@ class App(MDApp):
         database_controller.insert_transaccion(compra)
         self.root.current = "menu_principal"
         
-
     def build(self):
         self.theme_cls.theme_style = "Dark"
         self.theme_cls.primary_palette = "Cyan"
         self.theme_cls.accent_palette = "Lime"
         return UI()
-
-    
