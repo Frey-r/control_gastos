@@ -1,9 +1,10 @@
+#:kivy 2.0.0
 <ui>:
     MDScreen:
         name: "menu_principal"
         MDBoxLayout:
             orientation: "vertical"
-            md_bg_color: [229, 239, 255]
+            md_bg_color: app.theme_cls.primary_color
             MDBoxLayout: 
                 size_hint: 1, 1
                 orientation: "vertical"
@@ -17,8 +18,12 @@
                 MDCard:
                     name: "Ingreso Gastos"
                     margin: '5dp'
-                    on_press:
-                        app.working()
+                    on_press: 
+                        app.read_barcode()  
+                    Label:
+                        text: "Nueva Compra"
+                        color: app.theme_cls.accent_color
+
                 MDCard:
                     name: "Estadisticas"
                     margin: '5dp'
@@ -33,6 +38,4 @@
                     name: "Distribuidores"
                     margin: '5dp'
                     on_press:
-                        app.working()
-                    
-            
+                        app.working() 

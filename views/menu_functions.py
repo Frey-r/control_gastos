@@ -13,6 +13,10 @@ class App(MDApp):
         print("working")
         logger.info("working")
 
+    def read_barcode(self):
+        print("working")
+        logger.info("working")
+
     def build(self):
         self.theme_cls.theme_style = "Dark"
         self.theme_cls.primary_palette = "Cyan"
